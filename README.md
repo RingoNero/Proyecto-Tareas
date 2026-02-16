@@ -1,3 +1,27 @@
+# 📝 Sistema de Gestión de Tareas Colaborativo
+
+Este es un sistema robusto de gestión de tareas desarrollado con **CodeIgniter**. Permite a los usuarios organizar su trabajo personal, desglosar tareas complejas y colaborar con otros miembros en tiempo real.
+
+## 🚀 Características Principales
+
+* **Autenticación de Usuarios:** Registro e inicio de sesión seguro para cada usuario.
+* **Gestión de Tareas:** Creación, edición y eliminación de tareas principales.
+* **Subtareas:** Capacidad de desglosar una tarea en pasos más pequeños para un mejor seguimiento.
+* **Colaboración:** Sistema de invitaciones para que otros usuarios registrados puedan visualizar y gestionar tareas compartidas.
+* **Estados de Tarea:** Control de flujo mediante estados: `Pendiente`, `En Proceso` y `Completado`.
+* **Fechas Límite:** Configuración de *deadlines* para asegurar el cumplimiento de objetivos.
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Backend:** PHP (Framework CodeIgniter)
+* **Base de Datos:** MySQL
+* **Frontend:** HTML5, CSS3, JavaScript (Bootstrap para el diseño responsivo)
+
+## 📦 Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/RingoNero/Proyecto-Tareas.git](https://github.com/RingoNero/Proyecto-Tareas.git)
 # pasos para que la pagina funcione
 1- clonar el repositorio.
 
