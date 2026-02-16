@@ -1,6 +1,6 @@
 # 📝 Sistema de Gestión de Tareas Colaborativo
 
-Este es un sistema robusto de gestión de tareas desarrollado con **CodeIgniter**. Permite a los usuarios organizar su trabajo personal, desglosar tareas complejas y colaborar con otros miembros en tiempo real.
+Este es un sistema  de gestión de tareas desarrollado con **CodeIgniter**. Permite a los usuarios organizar su trabajo personal, desglosar tareas complejas y colaborar con otros miembros en tiempo real.
 
 ## 🚀 Características Principales
 
@@ -15,23 +15,21 @@ Este es un sistema robusto de gestión de tareas desarrollado con **CodeIgniter*
 
 * **Backend:** PHP (Framework CodeIgniter)
 * **Base de Datos:** MySQL
-* **Frontend:** HTML5, CSS3, JavaScript (Bootstrap para el diseño responsivo)
+* **Frontend:** HTML5, CSS3 (Bootstrap para el diseño responsivo)
 
 ## 📦 Instalación
 
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/RingoNero/Proyecto-Tareas.git](https://github.com/RingoNero/Proyecto-Tareas.git)
-# pasos para que la pagina funcione
-1- clonar el repositorio.
 
-2-instalar las dependencias de codeigniter con composer install en la carpeta del proyecto clonado.
+2.instalar las dependencias de codeigniter con composer install en la carpeta del proyecto clonado
 
-3-importar la base de datos.
+3.Importa la base de datos database.sql en tu servidor local (XAMPP/WAMP).
 
-4-poner el nombre de la base de datos y las creedenciales en el archivo database.
+4.Configura el archivo app/Config/Database.php con tus credenciales.
+   
 
-5-cambiar la ruta por la que corresponda en el archivo app.
 
 # CodeIgniter 4 Application Starter
 
